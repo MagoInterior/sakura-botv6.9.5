@@ -14,6 +14,11 @@
 <img title="Versão" src="https://img.shields.io/badge/Versão-6.9.5-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 
+### `—◉ 🌌 ACTIVAR EN REPLIT 🌌`
+
+[![Run on Repl.it](https://repl.it/badge/github/MagoInterior/sakura-botv6.9.5)](https://repl.it/github/MagoInterior/sakura-botv6.9.5) 
+
+
 ## Instalação via Termux  <img src="https://user-images.githubusercontent.com/108157095/182052725-6568419a-6a9f-490a-85ea-90b94af694fe.png" height="25px">
 **💮1° Comando✓**
 ```
