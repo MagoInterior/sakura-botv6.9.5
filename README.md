@@ -18,6 +18,16 @@
 
 [![Run on Repl.it](https://repl.it/badge/github/MagoInterior/sakura-botv6.9.5)](https://repl.it/github/MagoInterior/sakura-botv6.9.5) 
 
+</br>
+
+
+  <h2 align="center"> 🚩  Deploy On Codespace  🚩
+</h2>
+<h2 align="center">  <a href="https://github.com/codespaces/new"><img title="sakura on Gitub Codespace" src="https://img.shields.io/badge/DEPLOY CODESPACE-h?color=black&style=for-the-badge&logo=visualstudiocode" />
+</a>
+</h2>
+     
+   <br>
 
 ## Instalação via Termux  <img src="https://user-images.githubusercontent.com/108157095/182052725-6568419a-6a9f-490a-85ea-90b94af694fe.png" height="25px">
 **💮1° Comando✓**
